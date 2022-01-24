@@ -1,0 +1,6 @@
+['https://grafws.kadastrs.lv/gateway/gateto/GEOPRODUKTS-WFS-INSPIRE-CP-bd4a685d-2bc3-411a-bc40-1f0eb924cd71', 'cp:CadastralParcel']
+['https://grafws.kadastrs.lv/gateway/gateto/GEOPRODUKTS-WFS-INSPIRE-AU-4cd9484d-8350-45e8-b819-ba87aaf97604', 'au:AdministrativeUnit']
+['https://grafws.kadastrs.lv/gateway/gateto/GEOPRODUKTS-WFS-INSPIRE-AUB-579546ba-af84-4e7c-bfb0-1fd9aeae0b29', 'au:AdministrativeBoundary']
+['https://grafws.kadastrs.lv/gateway/gateto/GEOPRODUKTS-WFS-INSPIRE-AUR-8b83e5a0-2480-4134-ba8e-1870e6ac524e', 'au:AdministrativeResidence']
+['https://grafws.kadastrs.lv/gateway/gateto/GEOPRODUKTS-WFS-INSPIRE-AD-cfc607ca-a5d8-4178-83e1-a176ea835d64', 'ad:Address']
+['https://karte.lad.gov.lv/arcgis/services/lauku_bloki/MapServer/WFSServer', 'LAD:Lauku_bloki']
