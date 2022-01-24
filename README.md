@@ -1,0 +1,1 @@
+# Atskaite-par-GDS-MDK-ierakstiem-un-Resursu-lejupielaade
