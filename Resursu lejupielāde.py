@@ -35,7 +35,7 @@ def geom_check(url, FeatureType):
     vaic += FeatureType
     try:
         page = requests.get(vaic, allow_redirects=True, verify=False, headers=headers, timeout=60)
-    except: return False
+    except requests.RequestException: return False
     else:
         chunk = page.text
         if 'name="shape"' in chunk.lower():
