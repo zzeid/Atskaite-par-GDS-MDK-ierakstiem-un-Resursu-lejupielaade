@@ -53,7 +53,6 @@ while (c < max):
             a = response.text
             #metadata = str(a.encode('utf-8'))
             metadata = str(a)
-            metadata.find('MD_Metadata')
             test = metadata.find('MD_Metadata')
             if test != -1:
                 #--------------------organisationName-------------------------------------------------------------------
